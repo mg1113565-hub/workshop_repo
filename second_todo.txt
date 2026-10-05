@@ -1,2 +1,5 @@
 Second Todo List
-    - Wash car
+   - Wash car
+   - Buy groceries 
+   - Prepare cheat sheet for math exam
+    
